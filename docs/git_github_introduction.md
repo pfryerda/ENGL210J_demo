@@ -53,7 +53,7 @@ Pull requests are the foundation of GitHub. They are the only way (for now) to m
 
 ![alt text](img/pull_request_button.png "Pull Request Button")
 
-This will take you to a new screen where you can see all the differences between the original branch and your feature branch. Once you are satisfied with how your commit looks, you can press the green **"Create Pull Request"**. Now, others can review your changes and make comments on individual lines, asking you why you did something the way you did, or pointing out issues in your writting. Once everyone has approved your changes, a manager will merge your code back into the original branch.
+This will take you to a new screen where you can see all the differences between the original branch and your feature branch. Once you are satisfied with how your commit looks, you can press the green **"Create Pull Request"** button. Now, others can review your changes and make comments on individual lines, asking you why you did something the way you did, or pointing out issues in your writting. Once everyone has approved your changes, a manager will merge your code back into the original branch.
 
 ![alt text](img/open_pull_request.png "Open Pull Request")
 
